@@ -1,2 +1,5 @@
-print("Hola amigas")
-print("Hola amigas")
+
+print("Hola amiguitos")
+
+print("Hola que tal")
+
